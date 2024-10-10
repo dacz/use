@@ -1,5 +1,7 @@
 # package use
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/dacz/use.svg)](https://pkg.go.dev/github.com/dacz/use) ![Tests](https://github.com/dacz/use/actions/workflows/ci.yml/badge.svg)
+
 ## Install
 
 `go get -u github.com/dacz/use`
