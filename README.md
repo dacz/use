@@ -1,6 +1,6 @@
 # package use
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/dacz/use.svg)](https://pkg.go.dev/github.com/dacz/use) ![Tests](https://github.com/dacz/use/actions/workflows/ci.yml/badge.svg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/dacz/use.svg)](https://pkg.go.dev/github.com/dacz/use) ![Tests](https://github.com/dacz/use/actions/workflows/ci.yml/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/dacz/use)](https://goreportcard.com/report/github.com/dacz/use)
 
 ## Install
 
